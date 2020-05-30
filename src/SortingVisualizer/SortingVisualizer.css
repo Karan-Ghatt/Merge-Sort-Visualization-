@@ -1,0 +1,19 @@
+.array-container {
+  position: fixed;
+  left: 185px;
+  /* top: 100px; */
+}
+
+.array-bar {
+  width: 2px;
+  display: inline-block;
+  margin: 0 1px;
+}
+
+.header {
+  padding: 100px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 80px;
+}
